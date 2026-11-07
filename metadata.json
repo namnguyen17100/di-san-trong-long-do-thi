@@ -1,0 +1,6 @@
+{
+  "name": "Di Sản Trong Lòng Đô Thị",
+  "description": "Cổng thông tin và kho tư liệu số nghiên cứu bảo tồn bản sắc văn hóa dân tộc Mường giữa nhịp sống Hà Nội (Đề tài I01 - PH60600).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
